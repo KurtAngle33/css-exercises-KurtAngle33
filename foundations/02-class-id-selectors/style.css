@@ -1,0 +1,17 @@
+#second{
+    font-size:36px;
+    color:#0000ffcc
+}
+#fourth{
+    font-size:24px;
+    background-color: rgb(136, 199, 41);
+    font-weight: bold;
+}
+.odd {
+    background-color: rgb(240, 186, 186);
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+.third{
+    font-size: 24px;
+}
+    
