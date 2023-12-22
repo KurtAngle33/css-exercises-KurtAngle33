@@ -1,7 +1,16 @@
 div {
+<<<<<<< HEAD
     color:white;
     background-color:red;
     font-size: 32px;
     font-weight: bold;
     align: center;
   }
+=======
+  color:white;
+  background-color:red;
+  font-size: 32;
+  font-weight: bold;
+  align: center;
+}
+>>>>>>> e14a29299290d5f878e0e596d08f3d97e7fe9e76
